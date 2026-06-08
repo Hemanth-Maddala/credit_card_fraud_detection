@@ -139,8 +139,7 @@ jupyter notebook
 
 ## 🔗 Links
 
-* 📁 GitHub Repo: [Add your link]
-* 📊 Dataset: Kaggle Credit Card Fraud Dataset
+* 📊 Dataset: Kaggle Credit Card Fraud Dataset: [https://www.kaggle.com/datasets/miadul/credit-card-fraud-detection-dataset]
 
 ---
 
